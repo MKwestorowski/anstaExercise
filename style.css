@@ -1,5 +1,6 @@
-
-
+li {
+    list-style-type: none;
+}
 .dropbtn {
 
 
@@ -10,5 +11,18 @@
 }
 
 .dropbtn::after {
+
+}
+
+.home {
+
+}
+
+
+.messagge {
+
+}
+
+.gear {
 
 }
